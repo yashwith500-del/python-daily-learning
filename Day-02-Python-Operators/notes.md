@@ -112,54 +112,18 @@ print("P" in name)
 print("z" not in name)
 ```
 
-### 6. Identity Operators
-
-Used to check whether two variables refer to the same object.
-
-- `is`
-- `is not`
-
-Example:
-
-```python
-a = [1, 2]
-b = a
-
-print(a is b)
-```
-
-### 7. Bitwise Operators
-
-Used to perform operations on the binary representation of integers.
-
-Common bitwise operators:
-
-`&`, `|`, `^`, `~`, `<<`, `>>`
-
-Example:
-
-```python
-a = 5
-b = 3
-
-print(a & b)
-print(a | b)
-print(a ^ b)
-```
-
 ## 📝 Practice
 
-1. Write a program using all arithmetic operators.
+1. Write a program using arithmetic operators.
 2. Compare two numbers using comparison operators.
 3. Write examples using `and`, `or`, and `not`.
 4. Practice updating a variable using assignment operators.
 5. Check whether a character exists in a string using `in`.
-6. Try simple bitwise operations with two integers.
 
 ## 🔍 What I Understood
 
-I learned that Python operators are used to perform calculations, compare values, combine conditions, assign values, check membership and identity, and perform bitwise operations.
+I learned how Python operators can be used for calculations, comparisons, logical conditions, assigning and updating values, and checking whether a value exists in a sequence.
 
 ## 🚀 Next Topic
 
-**Day 03 — Input and Output in Python**
+**Day 03 — Continue with the remaining Python operators or the next topic taught in class.**
